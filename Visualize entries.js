@@ -1,5 +1,4 @@
 'use strict';
-
 /**
  * @param {Object} course
  * @param {number} [course.id]
